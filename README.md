@@ -1,5 +1,7 @@
 # Sprunki OC: A New Era of Music Creation and Gaming
-**Play Sprunki OC ON https://sprunki-oc.com**
+
+**Play Sprunki OC Games ON https://sprunki-oc.com**
+
 Sprunki OC is a revolutionary music creation game that perfectly combines character customization with an intuitive sound mixing system. Players can design characters with special abilities, solve engaging puzzles, and create original musical compositions through an interactive soundboard system.
 
 ![Sprunki OC Gameplay Screenshot](https://public.sprunki-oc.com/gameplay.png "Experience the magical world of Sprunki OC")
